@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Akshay Meher
 - 👀 I’m interested in Codding & software Devlopment
-- 🌱 I’m currently learning Full stack web Devlopment
+- 🌱 I’m currently learning Full stack web development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me meherakshay59@gmail.com
 
